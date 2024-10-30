@@ -14,3 +14,7 @@ config/name="TP2"
 run/main_scene="res://menu.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
+
+[global_group]
+
+Player="El mas mejor"
